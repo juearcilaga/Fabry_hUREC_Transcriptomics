@@ -5,6 +5,9 @@ This repository contains scripts for the analysis of bulk RNA sequencing (RNAseq
 
 ![image](https://github.com/user-attachments/assets/7983d3b4-d928-41c0-bce6-c116c6f35931)
 
+
+The Follwing scripts are available here:
+
 ## 1. RNASeq_Fabry_Differential_Expression_Analysis.R
 
 Performs differential gene expression (DEG) analysis using RNA sequencing (RNA-Seq) data from Fabry disease samples. Involves normalization, statistical testing (DESeq2), and identification of significantly differentially expressed genes.
