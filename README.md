@@ -2,6 +2,7 @@
 This repository contains scripts for the analysis of bulk RNA sequencing (RNAseq) data from human urine-derived renal epithelial cells (hURECs) in Fabry disease. The scripts cover key steps in transcriptomic analysis, including quality control, normalization, differential expression analysis, and visualization.
 
 ![image](https://github.com/user-attachments/assets/e5b7861d-45aa-40b6-bd44-ac5e6e560555)
+
 ![image](https://github.com/user-attachments/assets/7983d3b4-d928-41c0-bce6-c116c6f35931)
 
 ## 1. RNASeq_Fabry_Differential_Expression_Analysis.R
